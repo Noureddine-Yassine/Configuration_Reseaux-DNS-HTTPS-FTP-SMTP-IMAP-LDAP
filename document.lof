@@ -1,0 +1,39 @@
+\babel@toc {french}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces le service est actif}}{4}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Configuration du fichier \texttt {db.direct}}}{5}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Configuration du fichier \texttt {db.inverse}}}{5}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Configuration de \texttt {named.conf.local}}}{6}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Vérification de \texttt {db.direct}}}{6}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Vérification de \texttt {db.inverse}}}{6}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Vérification avec \texttt {nslookup}}}{7}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Résultat de la vérification}}{7}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Certificat SSL auto-signé généré}}{9}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Fichier \texttt {groupe7.conf}}}{10}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Configuration de \texttt {groupe7-ssl.conf}}}{10}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Modification du fichier \texttt {/etc/hosts}}}{11}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Contenu du fichier \texttt {index.html}}}{11}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Vérification du statut du service Apache2}}{12}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Vérification du site HTTPS}}{12}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces \'Etat du service \texttt {vsftpd}}}{13}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Exemple de configuration de \texttt {vsftpd} (partie 1)}}{14}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Exemple de configuration de \texttt {vsftpd} (partie 2)}}{14}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Configuration du pare-feu}}{14}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Test du r\'epertoire FTP}}{15}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Ajout de l'utilisateur \`a la liste \texttt {vsftpd.userlist}}}{15}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Connexion via FileZilla}}{16}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Connexion via l'invite de commande Windows}}{17}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces le serveur écoute sur le port 25 }}{18}{}%
+\contentsline {figure}{\numberline {25}{\ignorespaces le serveur écoute sur le port 143}}{18}{}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Configuration du compte utilisateur \texttt {user1} dans Thunderbird}}{19}{}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Tableau de bord de Thunderbird avant le test}}{20}{}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Envoi d'un email via l'invite de commande}}{21}{}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Réception de l'email dans Thunderbird}}{21}{}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Résultat de la commande \texttt {slapcat}}}{22}{}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Exemple de contenu du fichier \texttt {utilisateurs\_et\_groupes.ldif}}}{23}{}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Génération de mots de passe avec \texttt {slappasswd}}}{23}{}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Ajout des données dans l'annuaire LDAP}}{24}{}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Vérification des utilisateurs dans l'annuaire LDAP}}{24}{}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Configuration du fichier \texttt {config.php}}}{25}{}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Connexion à PHPLDAPADMIN via le navigateur}}{25}{}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Tableau de bord de PHPLDAPADMIN}}{25}{}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Visualisation des utilisateurs et groupes dans PHPLDAPADMIN}}{25}{}%
